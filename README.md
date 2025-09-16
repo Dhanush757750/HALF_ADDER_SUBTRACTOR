@@ -65,6 +65,7 @@ Developed by: RegisterNumber:212224040066
 <img width="1920" height="1200" alt="Screenshot 2025-09-16 134925" src="https://github.com/user-attachments/assets/6dba8005-072c-4aa7-880e-c0301b386475" />
 
 **Output/TIMING Waveform**
+The code is excecuted successfully.
 <img width="1920" height="1200" alt="Screenshot 2025-09-16 141418" src="https://github.com/user-attachments/assets/07648866-70a4-4ed4-8160-70918d16bc39" />
 
 **Result:**
