@@ -59,7 +59,8 @@ assign diff=(a^b);
 assign borr=(~a&b);
 endmodule
 ```
-Developed by: RegisterNumber:212224040066
+# Developed by:C.Dhanush
+# RegisterNumber:212224040066
 
 **RTL Schematic**
 <img width="1920" height="1200" alt="Screenshot 2025-09-16 134925" src="https://github.com/user-attachments/assets/6dba8005-072c-4aa7-880e-c0301b386475" />
